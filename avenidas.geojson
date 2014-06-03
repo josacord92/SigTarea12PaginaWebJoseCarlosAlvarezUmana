@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 5, "nombre": "avenida 4" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.142085476939528, 9.917832232074067 ], [ -84.1368931268929, 9.917488703615637 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "avenida 2" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.142143600260951, 9.918710136498321 ], [ -84.13691250133337, 9.918366608960254 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "avenida central" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.142143600260951, 9.919588038570376 ], [ -84.13691250133337, 9.9192635967743 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "avenida 1" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.142007979177649, 9.920446853538541 ], [ -84.136970624654779, 9.920103327821431 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "nombre": "avenida 3" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.141911106975286, 9.921305666255305 ], [ -84.136989999095263, 9.920981226160267 ] ] } }
+]
+}
